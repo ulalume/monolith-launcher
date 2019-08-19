@@ -2,12 +2,12 @@
 return {
   {
     name="JUMP",
-    folder="discovery",
+    folder="jump",
     seed=nil,
   },
   {
     name="BOMB!!",
-    folder="BomberMan",
+    folder="bomb",
     seed=662710,
   },
   {
