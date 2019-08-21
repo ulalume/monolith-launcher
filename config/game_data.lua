@@ -15,4 +15,9 @@ return {
     folder="snake",
     seed=nil,
   },
+  {
+    name="Pong",
+    folder="pong",
+    seed=nil,
+  },
 }
