@@ -20,4 +20,9 @@ return {
     folder="pong",
     seed=nil,
   },
+  {
+    name="TTRS",
+    folder="tetris",
+    seed=nil,
+  },
 }
