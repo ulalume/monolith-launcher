@@ -1,28 +1,32 @@
-
 return {
   {
-    name="JUMP",
-    folder="jump",
-    seed=nil,
+    name = "Othello",
+    folder = "sequencer",
+    seed = nil,
   },
   {
-    name="BOMB!!",
-    folder="bomb",
-    seed=662710,
+    name = "JUMP",
+    folder = "jump",
+    seed = nil,
   },
   {
-    name="SNAKE",
-    folder="snake",
-    seed=nil,
+    name = "BOMB!!",
+    folder = "bomb",
+    seed = 662710,
   },
   {
-    name="Pong",
-    folder="pong",
-    seed=nil,
+    name = "SNAKE",
+    folder = "snake",
+    seed = nil,
   },
   {
-    name="TTRS",
-    folder="tetris",
-    seed=nil,
+    name = "Pong",
+    folder = "pong",
+    seed = nil,
+  },
+  {
+    name = "TTRS",
+    folder = "tetris",
+    seed = nil,
   },
 }
